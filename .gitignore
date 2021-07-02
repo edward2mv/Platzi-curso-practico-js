@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#configurationm of VS Code 
+.vscode
